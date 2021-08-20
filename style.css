@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Acme", sans-serif;
   font-size: 62.5%;
   letter-spacing: 1.5px;
   margin: 0;
@@ -167,7 +167,7 @@ p.stats:last-child {
 }
 
 .card {
-  background: #fc4;
+  background: rgb(173, 97, 245);
   border-radius: 0.5em;
   height: 7em;
   width: 7em;
@@ -268,10 +268,6 @@ img {
 
   .reset-btn {
     font-size: 0.8em;
-  }
-
-  .footer {
-    font-size: 1.2em;
   }
 
   .modal-content h2 {
